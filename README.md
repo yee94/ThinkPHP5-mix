@@ -4,14 +4,14 @@
 克隆项目到本地
 
 cd到对应目录
-```
+```node
 yarn
 ```
 
 
 或者
 
-```
+```node
 npm install
 ```
 
@@ -20,7 +20,7 @@ npm install
 安装完Packages以后
 
 就可以使用熟悉的命令启动了
-```
+```node
 npm run dev 
 ```
 命令和laravel-mix中的一样
@@ -34,7 +34,7 @@ npm run dev
 你可以配置
 >webpack.mix.js
 
-```
+```js
 mix
     .js('assets/js/app.js', 'public/static/js')
    .less('assets/less/style.less', 'public/static/css')
