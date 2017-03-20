@@ -1,5 +1,7 @@
 # ThinkPHP5-mix
 把laravel-mix移植到thinkPHP5中，完成前端构建和开发
+
+支持vue组件开发！ 里面有实例
 # 安装
 克隆项目到本地
 
